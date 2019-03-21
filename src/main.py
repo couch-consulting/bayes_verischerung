@@ -8,3 +8,20 @@ input_filename = "test_data.csv"
 input_data = get_input_data(input_filename)
 
 print(input_data)
+
+
+
+
+
+
+
+
+
+# TODO Wait for more detailed data to build full data model
+# Current suggestion List of dicts where all possible information are keys that only exists if the info is available
+
+
+# Possible lib for bayesian networks
+# https://pomegranate.readthedocs.io/en/latest/BayesianNetwork.html
+# https://pypi.org/project/bayespy/ | http://www.bayespy.org/intro.html
+# http://pgmpy.org/models.html

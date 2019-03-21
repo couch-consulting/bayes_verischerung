@@ -1,6 +1,8 @@
 # bayes_verischerung
 Ein Bayes Netz zur Auswahl von Versicherungstarifen 
- > Code documentation in english. 
+ > Further documentation in english. 
+ 
+ A Bayesian network to select insurance tariffs.  
 
 ## Project structure and explanations 
 
@@ -13,3 +15,6 @@ utils (Directory for variety of utility code)
 └── inputUtils.py (Utils to get input files to program data at runtime
 
 ```
+
+## Current Requirements 
+* Python 3
